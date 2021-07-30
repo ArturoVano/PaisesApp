@@ -7,10 +7,11 @@ Diseño realizado con Bootstrap.
 
 Proyecto generado con Angular CLI version 12.1.2.
 
-demostración en github pages del bundle de producción:
-
-`ng serve` para lanzar el servidor de desarrollo.  
+`ng serve -o` para lanzar el servidor de desarrollo.  
 `ng build` para crear la carpeta de producción.
 
+## Resultado
 
+Bundle de producción desplegado en Netlify:
+https://vigilant-bardeen-b02fed.netlify.app
 
